@@ -40,9 +40,9 @@ print(len(edades))
 #diccionario prolijo y con saltos de linea
 
 datos_personales = { "nombre": "Juan",
-                  "Apellido": "Isabella",
-                  "Edad": 37,
-                  "Nacionalidad": "Argentina"}
+"Apellido": "Isabella",
+"Edad": 37,
+"Nacionalidad": "Argentina"}
 
 print(datos_personales)
 
